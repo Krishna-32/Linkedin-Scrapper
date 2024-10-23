@@ -27,6 +27,9 @@ To clone and run the application, follow these steps:
    pip install flask
    
 5. Activate the virtual environment:
+   - For Windows:
+   ```bash
+   .\venv\Scripts\activate
 
 6. Run the application:
 
