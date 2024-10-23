@@ -20,7 +20,7 @@ To clone and run the application, follow these steps:
 
 3. Navigate to the server directory:
    ```bash
-   cd cd server
+   cd server
    
 4. Install Flask:
    ```bash
@@ -36,9 +36,20 @@ To clone and run the application, follow these steps:
    source venv/bin/activate
 
 6. Run the application:
+   ```bash
+   python app.js
 
 7. Open a new terminal and navigate to the client directory:
 
-8. Install npm packages:
+    ```bash
+   cd client
 
+8. Install npm packages:
+    ```bash
+   npm install
+
+    
 9. Run the development server:
+    ```bash
+   npm run dev
+
