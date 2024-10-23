@@ -19,9 +19,19 @@ To clone and run the application, follow these steps:
    cd Linkedin-Scrapper
 
 3. Navigate to the server directory:
+   ```bash
+   cd cd server
+   
 4. Install Flask:
+   ```bash
+   pip install flask
+   
 5. Activate the virtual environment:
+
 6. Run the application:
+
 7. Open a new terminal and navigate to the client directory:
+
 8. Install npm packages:
+
 9. Run the development server:
