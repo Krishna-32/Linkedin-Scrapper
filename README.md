@@ -15,6 +15,9 @@ To clone and run the application, follow these steps:
    git clone https://github.com/Krishna-32/Linkedin-Scrapper.git
 
 2. Navigate into the project directory:
+   ```bash
+   cd Linkedin-Scrapper
+
 3. Navigate to the server directory:
 4. Install Flask:
 5. Activate the virtual environment:
