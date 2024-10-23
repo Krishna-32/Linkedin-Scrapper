@@ -47,7 +47,6 @@ To clone and run the application, follow these steps:
 8. Install npm packages:
     ```bash
    npm install
-
     
 9. Run the development server:
     ```bash
