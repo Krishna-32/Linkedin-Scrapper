@@ -35,16 +35,20 @@ To clone and run the application, follow these steps:
    ```bash
    source venv/bin/activate
 
-6. Run the application:
+6. Install Packages:
+   ```bash
+   pip install flask flask-cors requests beautifulsoup4 python-docx
+
+7. Run the application:
    ```bash
    python app.js
 
-7. Open a new terminal and navigate to the client directory:
+8. Open a new terminal and navigate to the client directory:
 
     ```bash
    cd client
 
-8. Install npm packages:
+9. Install npm packages:
     ```bash
    npm install
     
