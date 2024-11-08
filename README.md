@@ -22,9 +22,9 @@ To clone and run the application, follow these steps:
    ```bash
    cd server
    
-4. Install Flask:
+4. Add virtual enviornment:
    ```bash
-   pip install flask
+   python -m venv venv
    
 5. Activate the virtual environment:
 - For Windows:
