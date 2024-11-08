@@ -41,7 +41,7 @@ To clone and run the application, follow these steps:
 
 7. Run the application:
    ```bash
-   python app.js
+   python app.py
 
 8. Open a new terminal and navigate to the client directory:
 
